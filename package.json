@@ -1,13 +1,13 @@
 {
-  "name": "GeeksForGeeks",
+  "name": "testapp",
   "version": "1.0.0",
-  "description": "GeeksForGeeks",
-  "main": "index.js",
+  "description": "test",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node start.js",
   },
-  "author": "GeeksForGeeks",
+  "author": "Viren Dave",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
